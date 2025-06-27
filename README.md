@@ -1,4 +1,4 @@
-## Ham🍔Bur🍔Ger
+## Hello, I'm Ewan, i make silly codes that are not really good, but I like what i do and I'm still learning so yeah
 
 <!--
 **ewan024/ewan024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
